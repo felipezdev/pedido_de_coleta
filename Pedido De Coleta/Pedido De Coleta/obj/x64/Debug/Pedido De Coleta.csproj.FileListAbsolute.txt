@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.Form1.resources
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.Histórico.resources
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.Properties.Resources.resources
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\PDC.accdb
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.exe.config
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.exe
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.pdb
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.exe
+C:\Users\User\source\repos\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.pdb
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\PDC.accdb
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.exe.config
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.exe
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\bin\x64\Debug\Pedido De Coleta.pdb
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.AssemblyReference.cache
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.Form1.resources
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.Properties.Resources.resources
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.GenerateResource.cache
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.csproj.CoreCompileInputs.cache
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.exe
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido De Coleta.pdb
+C:\Users\madson\Downloads\Pedido De Coleta-20240721T145959Z-001\Pedido De Coleta\Pedido De Coleta\obj\x64\Debug\Pedido_De_Coleta.listHitorico.resources
